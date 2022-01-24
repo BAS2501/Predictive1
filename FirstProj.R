@@ -4,4 +4,3 @@ library(ggplot2)
 str(cars)
 
 mean(cars)
-var(cars)
